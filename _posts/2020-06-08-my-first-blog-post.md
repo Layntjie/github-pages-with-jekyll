@@ -1,0 +1,10 @@
+---
+title: "THE-POLYGLOT"
+date: 2020-06-08
+---
+I write about jazz, carnival, culture, historiography, digital humanities, archives, and almost anything. 
+
+The amount of energy and mineral resources required to operate data centers and produce new storage media for the long-term preservation of media content is quite high. 
+
+The digitization process also effectively moves the media artifacts away from the direct engagement of archivists, scholars, and the public. By moving media archives to data servers, often off-site and/or hosted by a cloud service, we no longer have direct experience of the material conditions of the media. Miller (2015) suggests that the study of media is in fact more intimately tied with industrial production, mining and the search for rare metals than ever before. 
+
