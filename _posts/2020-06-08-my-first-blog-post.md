@@ -1,3 +1,7 @@
+---
+title: "THE-POLYGLOT"
+date: 2020-06-08
+---
 I write about jazz, carnival, culture, historiography, digital humanities, archives, and almost anything. 
 
 The amount of energy and mineral resources required to operate data centers and produce new storage media for the long-term preservation of media content is quite high. 
