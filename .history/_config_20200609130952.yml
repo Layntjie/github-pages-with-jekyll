@@ -10,6 +10,6 @@ I can edit this in _config.yml. It will appear in your document head meta (for
 
 # social links
 twitter_username: Layntjie # DO NOT include the @ character, or else the build will fail!
-github_username:  Layntjie # DO NOT include the @ character, or else the build will fail!
+github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
