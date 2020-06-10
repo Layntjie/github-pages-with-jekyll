@@ -1,7 +1,7 @@
 title: Towerslag one more time
 author: Valmont Layne
 email: valmont.layne@gmail.com
-theme: minima
+theme: jekyll-theme-cayman
 description: > # this means to ignore newlines until "baseurl:"
 # social links
 twitter_username: Layntjie # DO NOT include the @ character, or else the build will fail!
